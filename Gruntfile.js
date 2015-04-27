@@ -3,7 +3,7 @@
  *
  */
 module.exports = function (grunt) {
-    var copyDist = '../../../vhosts/js-toolbar/';
+    var copyDist = '../vhosts/timetable/';
 
     // init
     grunt.initConfig({
